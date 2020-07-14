@@ -1,5 +1,5 @@
 #   Hi there 👋
-Hi, I'm Anudeep — a product innovation officer at [kiwinash](https://kiwinash.com) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Hyderabad, IN and am an East Coast native. 🙌 I'm a huge nerd/geek, frequently validate my internet-product ideas, and aspiring entreprenuer. 💕
+I'm Anudeep — a product innovation officer at [kiwinash](https://kiwinash.com) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Hyderabad, IN and am an East Coast native. 🙌 I'm a huge nerd/geek, frequently validate my internet-product ideas, and aspiring entreprenuer. 💕
 
 ## My values
 💖 Empathy and trust<br>
