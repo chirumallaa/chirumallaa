@@ -1,7 +1,5 @@
-### Hi there 👋
-
-# Anudeep Chirumalla #kalanaHQ
-Hi, I'm Anudeep — a senior product designer at GitHub working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Oakland, CA and am an East Bay native. 🙌 I'm a huge nerd/geek, Splatoon 2 + ACNH player, and aspiring aerialist. 💕
+#   Hi there 👋
+Hi, I'm Anudeep — a product innovation officer at [kiwinash](https://kiwinash.com) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Hyderabad, IN and am an East Coast native. 🙌 I'm a huge nerd/geek, frequenlty validate my internet-product ideas, and aspiring entreprenuer. 💕
 
 ## My values
 💖 Empathy and trust<br>
@@ -14,7 +12,7 @@ Hi, I'm Anudeep — a senior product designer at GitHub working on [Sponsors](ht
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 
-## Oakland orgs to donate to #BLM
+## kiwinash Blogs #kiwinashHQ
 - [People's Breakfast Oakland](https://www.hellablackpod.com/pbo)
 - [Black Earth Farms](https://www.blackearthfarms.com/)
 - [Anti Police Terror Project](https://www.antipoliceterrorproject.org/)
