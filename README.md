@@ -20,4 +20,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 
 
-<a href="https://www.linkedin.com/in/chirumallaa/" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="https://twitter.com/travelcommelair" target="_blank"><img src="https://img.shields.io/badge/-@travelcommelair-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="mailto:chirumallaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a> <a href="https://instagram.com/chirumallaa/" target="_blank"><img src="https://img.shields.io/badge/-@chirumallaa-4aa6f0?style=flat-square&labelColor=4aa6f0&logo=Instagram" alt="Instagram"></a> 
+<a href="https://www.linkedin.com/in/chirumallaa/" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> 
