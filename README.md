@@ -1,5 +1,6 @@
 #   Hi there 👋
-I'm Anudeep — a product innovation officer at [kiwinash](https://kiwinash.com). Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Hyderabad, IN and am an East Coast native. 🙌 I'm a huge nerd/geek, frequently validate my internet-product ideas, and aspiring entreprenuer. 💕
+
+## I am Anudeep Chirumalla, an east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
 
 
 <a href="https://www.linkedin.com/in/chirumallaa/" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> 
