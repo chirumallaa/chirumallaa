@@ -3,7 +3,7 @@
 ### I am Anudeep Chirumalla, an east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale, currently working for Tech Mahindra Ltd.
 
 
-<a href="https://www.linkedin.com/in/chirumallaa/" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> 
+<a href="https://www.linkedin.com/in/chirumallaURL/" target="_blank"><img src="https://img.shields.io/badge/-chirumallaa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> 
 
 ## My values
 💖 Empathy and trust<br>
