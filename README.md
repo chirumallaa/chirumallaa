@@ -18,7 +18,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Wordspace
 
-- [Twitter Feed](https://www.twitter.com/travelcommelair)
+- [Twitter Feed](https://www.twitter.com/chirumallaurl)
 
 
 
